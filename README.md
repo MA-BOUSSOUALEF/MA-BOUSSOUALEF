@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Boussoualef Mohamed Amine</h1>            
 <h3 align="center">A passionate Data Engineer focused on building robust, scalable data pipelines and cloud architectures</h3>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedamine4&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedamine4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-boussoualef&label=Profile%20views&color=0e75b6&style=flat" alt="ma-boussoualef" /> </p>
 
 ---
 
@@ -75,5 +75,5 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/mohamed-amine-boussoualef-b78020262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed amine boussoualef" height="30" width="40" /></a>
-   <a href="https://mohamedamine4.github.io/PortFolio_/" target="blank"><img align="center" src="https://st3.depositphotos.com/4799321/13972/v/1600/depositphotos_139722380-stock-illustration-go-to-web-icon-internet.jpg" alt="mohamed amine boussoualef" height="30" width="40" /></a>
+   <a href="https://ma-boussoualef.github.io/PortFolio_/" target="blank"><img align="center" src="https://st3.depositphotos.com/4799321/13972/v/1600/depositphotos_139722380-stock-illustration-go-to-web-icon-internet.jpg" alt="mohamed amine boussoualef" height="30" width="40" /></a>
 </p>
