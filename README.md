@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Boussoualef Mohamed Amine</h1>            
 <h3 align="center">A passionate Data Engineer focused on building robust, scalable data pipelines and cloud architectures</h3>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-boussoualef&label=Profile%20views&color=0e75b6&style=flat" alt="ma-boussoualef" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedamine4&label=Profile%20views&color=0e75b6&style=flat" alt="ma-boussoualef" /> </p>
 
 ---
 
